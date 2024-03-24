@@ -45,7 +45,7 @@
             <td><a href="desafio-01">Player de Música</a></td>
             <td align="center">11/01/23</td>
             <td align="center">
-            <a href="desafio-01"><img width="300px" src="desafio-01/.github/preview.png" /></a></td>
+            <a href="desafio-01"><img width="300px" src="desafio-01/.github/preview.jpg" /></a></td>
         </tr>
     </tbody>
 </table></p>
